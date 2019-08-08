@@ -1,0 +1,11 @@
+C:\Users\rdimri\source\repos\Benchmark\ForVsForeach\bin\Release\netcoreapp2.1\ForVsForeach.deps.json
+C:\Users\rdimri\source\repos\Benchmark\ForVsForeach\bin\Release\netcoreapp2.1\ForVsForeach.runtimeconfig.json
+C:\Users\rdimri\source\repos\Benchmark\ForVsForeach\bin\Release\netcoreapp2.1\ForVsForeach.runtimeconfig.dev.json
+C:\Users\rdimri\source\repos\Benchmark\ForVsForeach\bin\Release\netcoreapp2.1\ForVsForeach.dll
+C:\Users\rdimri\source\repos\Benchmark\ForVsForeach\obj\Release\netcoreapp2.1\ForVsForeach.csproj.CoreCompileInputs.cache
+C:\Users\rdimri\source\repos\Benchmark\ForVsForeach\obj\Release\netcoreapp2.1\ForVsForeach.AssemblyInfoInputs.cache
+C:\Users\rdimri\source\repos\Benchmark\ForVsForeach\obj\Release\netcoreapp2.1\ForVsForeach.AssemblyInfo.cs
+C:\Users\rdimri\source\repos\Benchmark\ForVsForeach\bin\Release\netcoreapp2.1\ForVsForeach.pdb
+C:\Users\rdimri\source\repos\Benchmark\ForVsForeach\obj\Release\netcoreapp2.1\ForVsForeach.csprojAssemblyReference.cache
+C:\Users\rdimri\source\repos\Benchmark\ForVsForeach\obj\Release\netcoreapp2.1\ForVsForeach.dll
+C:\Users\rdimri\source\repos\Benchmark\ForVsForeach\obj\Release\netcoreapp2.1\ForVsForeach.pdb

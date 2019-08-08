@@ -1,0 +1,11 @@
+C:\Users\rdimri\source\repos\Benchmark\Benchmark\bin\Release\netcoreapp2.1\StringVsStringBuilder.deps.json
+C:\Users\rdimri\source\repos\Benchmark\Benchmark\bin\Release\netcoreapp2.1\StringVsStringBuilder.runtimeconfig.json
+C:\Users\rdimri\source\repos\Benchmark\Benchmark\bin\Release\netcoreapp2.1\StringVsStringBuilder.runtimeconfig.dev.json
+C:\Users\rdimri\source\repos\Benchmark\Benchmark\bin\Release\netcoreapp2.1\StringVsStringBuilder.dll
+C:\Users\rdimri\source\repos\Benchmark\Benchmark\bin\Release\netcoreapp2.1\StringVsStringBuilder.pdb
+C:\Users\rdimri\source\repos\Benchmark\Benchmark\obj\Release\netcoreapp2.1\StringVsStringBuilder.csprojAssemblyReference.cache
+C:\Users\rdimri\source\repos\Benchmark\Benchmark\obj\Release\netcoreapp2.1\StringVsStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\rdimri\source\repos\Benchmark\Benchmark\obj\Release\netcoreapp2.1\StringVsStringBuilder.AssemblyInfoInputs.cache
+C:\Users\rdimri\source\repos\Benchmark\Benchmark\obj\Release\netcoreapp2.1\StringVsStringBuilder.AssemblyInfo.cs
+C:\Users\rdimri\source\repos\Benchmark\Benchmark\obj\Release\netcoreapp2.1\StringVsStringBuilder.dll
+C:\Users\rdimri\source\repos\Benchmark\Benchmark\obj\Release\netcoreapp2.1\StringVsStringBuilder.pdb

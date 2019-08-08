@@ -1,0 +1,72 @@
+// Validating benchmarks:
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 2 benchmark(s) in total *****
+// ***** Building 1 exe(s) in Parallel: Start   *****
+// start dotnet restore  /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 in C:\Users\rdimri\source\repos\Benchmark\Benchmark\bin\Release\netcoreapp2.1\62eaee25-7af9-4407-a94e-7162c6afdcf4
+// command took 3.11s and exited with 0
+// start dotnet build -c Release  --no-restore /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 in C:\Users\rdimri\source\repos\Benchmark\Benchmark\bin\Release\netcoreapp2.1\62eaee25-7af9-4407-a94e-7162c6afdcf4
+// command took 4.57s and exited with 0
+// ***** Done, took 00:00:08 (8.06 sec)   *****
+// Found 2 benchmarks:
+//   StringVsStringBuilder.StringBenchmark: DefaultJob
+//   StringVsStringBuilder.StringBuilderBenchmark: DefaultJob
+
+Setup power plan (GUID: 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c FriendlyName: High performance)// **************************
+// Benchmark: StringVsStringBuilder.StringBenchmark: DefaultJob
+// *** Execute ***
+// Launch: 1 / 1
+// Execute: dotnet "62eaee25-7af9-4407-a94e-7162c6afdcf4.dll" --benchmarkName "MyBenchmark.StringVsStringBuilder.StringBenchmark" --job "Default" --benchmarkId 0 in C:\Users\rdimri\source\repos\Benchmark\Benchmark\bin\Release\netcoreapp2.1\62eaee25-7af9-4407-a94e-7162c6afdcf4\bin\Release\netcoreapp2.1
+// BeforeAnythingElse
+
+// Benchmark Process Environment Information:
+// Runtime=.NET Core 2.1.12 (CoreCLR 4.6.27817.01, CoreFX 4.6.27818.01), 64bit RyuJIT
+// GC=Concurrent Workstation
+// Job: DefaultJob
+
+OverheadJitting  1: 1 op, 322005.64 ns, 322.0056 us/op
+WorkloadJitting  1: 1 op, 336227.86 ns, 336.2279 us/op
+
+OverheadJitting  2: 16 op, 447452.91 ns, 27.9658 us/op
+WorkloadJitting  2: 16 op, 755236.33 ns, 47.2023 us/op
+
+WorkloadPilot    1: 16 op, 173948.69 ns, 10.8718 us/op
+WorkloadPilot    2: 32 op, 639270.54 ns, 19.9772 us/op
+WorkloadPilot    3: 64 op, 1137412.90 ns, 17.7721 us/op
+WorkloadPilot    4: 128 op, 2012626.41 ns, 15.7236 us/op
+WorkloadPilot    5: 256 op, 3179942.44 ns, 12.4217 us/op
+WorkloadPilot    6: 512 op, 7132260.81 ns, 13.9302 us/op
+WorkloadPilot    7: 1024 op, 9344727.64 ns, 9.1257 us/op
+WorkloadPilot    8: 2048 op, 19067985.13 ns, 9.3105 us/op
+WorkloadPilot    9: 4096 op, 29440723.98 ns, 7.1877 us/op
+WorkloadPilot   10: 8192 op, 57428228.84 ns, 7.0103 us/op
+WorkloadPilot   11: 16384 op, 126558062.39 ns, 7.7245 us/op
+WorkloadPilot   12: 32768 op, 322822869.91 ns, 9.8518 us/op
+WorkloadPilot   13: 65536 op, 566338631.78 ns, 8.6416 us/op
+
+OverheadWarmup   1: 65536 op, 115601.12 ns, 1.7639 ns/op
+OverheadWarmup   2: 65536 op, 114142.43 ns, 1.7417 ns/op
+OverheadWarmup   3: 65536 op, 121800.55 ns, 1.8585 ns/op
+OverheadWarmup   4: 65536 op, 126176.62 ns, 1.9253 ns/op
+OverheadWarmup   5: 65536 op, 174678.03 ns, 2.6654 ns/op
+OverheadWarmup   6: 65536 op, 154985.73 ns, 2.3649 ns/op
+OverheadWarmup   7: 65536 op, 139669.49 ns, 2.1312 ns/op
+OverheadWarmup   8: 65536 op, 181242.13 ns, 2.7655 ns/op
+OverheadWarmup   9: 65536 op, 180512.79 ns, 2.7544 ns/op
+
+OverheadActual   1: 65536 op, 137116.78 ns, 2.0922 ns/op
+OverheadActual   2: 65536 op, 113777.76 ns, 1.7361 ns/op
+OverheadActual   3: 65536 op, 117059.81 ns, 1.7862 ns/op
+OverheadActual   4: 65536 op, 113777.76 ns, 1.7361 ns/op
+OverheadActual   5: 65536 op, 114142.43 ns, 1.7417 ns/op
+OverheadActual   6: 65536 op, 273139.55 ns, 4.1678 ns/op
+OverheadActual   7: 65536 op, 194005.66 ns, 2.9603 ns/op
+OverheadActual   8: 65536 op, 197652.39 ns, 3.0159 ns/op
+OverheadActual   9: 65536 op, 194735.01 ns, 2.9714 ns/op
+OverheadActual  10: 65536 op, 176136.72 ns, 2.6876 ns/op
+OverheadActual  11: 65536 op, 129823.34 ns, 1.9809 ns/op
+OverheadActual  12: 65536 op, 132740.72 ns, 2.0255 ns/op
+OverheadActual  13: 65536 op, 125447.27 ns, 1.9142 ns/op
+OverheadActual  14: 65536 op, 173948.69 ns, 2.6542 ns/op
+OverheadActual  15: 65536 op, 270951.52 ns, 4.1344 ns/op
+OverheadActual  16: 65536 op, 464227.84 ns, 7.0836 ns/op
+OverheadActual  17: 65536 op, 180512.79 ns,

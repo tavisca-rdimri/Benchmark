@@ -1,0 +1,11 @@
+C:\Users\rdimri\source\repos\Benchmark\ClassVsStructure\bin\Release\netcoreapp2.1\ClassVsStructure.deps.json
+C:\Users\rdimri\source\repos\Benchmark\ClassVsStructure\bin\Release\netcoreapp2.1\ClassVsStructure.runtimeconfig.json
+C:\Users\rdimri\source\repos\Benchmark\ClassVsStructure\bin\Release\netcoreapp2.1\ClassVsStructure.runtimeconfig.dev.json
+C:\Users\rdimri\source\repos\Benchmark\ClassVsStructure\bin\Release\netcoreapp2.1\ClassVsStructure.dll
+C:\Users\rdimri\source\repos\Benchmark\ClassVsStructure\obj\Release\netcoreapp2.1\ClassVsStructure.csprojAssemblyReference.cache
+C:\Users\rdimri\source\repos\Benchmark\ClassVsStructure\obj\Release\netcoreapp2.1\ClassVsStructure.csproj.CoreCompileInputs.cache
+C:\Users\rdimri\source\repos\Benchmark\ClassVsStructure\obj\Release\netcoreapp2.1\ClassVsStructure.AssemblyInfoInputs.cache
+C:\Users\rdimri\source\repos\Benchmark\ClassVsStructure\obj\Release\netcoreapp2.1\ClassVsStructure.AssemblyInfo.cs
+C:\Users\rdimri\source\repos\Benchmark\ClassVsStructure\bin\Release\netcoreapp2.1\ClassVsStructure.pdb
+C:\Users\rdimri\source\repos\Benchmark\ClassVsStructure\obj\Release\netcoreapp2.1\ClassVsStructure.dll
+C:\Users\rdimri\source\repos\Benchmark\ClassVsStructure\obj\Release\netcoreapp2.1\ClassVsStructure.pdb

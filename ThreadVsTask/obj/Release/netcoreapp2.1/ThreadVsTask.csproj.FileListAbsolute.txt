@@ -1,0 +1,11 @@
+C:\Users\rdimri\source\repos\Benchmark\ThreadVsTask\bin\Release\netcoreapp2.1\ThreadVsTask.deps.json
+C:\Users\rdimri\source\repos\Benchmark\ThreadVsTask\bin\Release\netcoreapp2.1\ThreadVsTask.runtimeconfig.json
+C:\Users\rdimri\source\repos\Benchmark\ThreadVsTask\bin\Release\netcoreapp2.1\ThreadVsTask.runtimeconfig.dev.json
+C:\Users\rdimri\source\repos\Benchmark\ThreadVsTask\bin\Release\netcoreapp2.1\ThreadVsTask.dll
+C:\Users\rdimri\source\repos\Benchmark\ThreadVsTask\obj\Release\netcoreapp2.1\ThreadVsTask.csproj.CoreCompileInputs.cache
+C:\Users\rdimri\source\repos\Benchmark\ThreadVsTask\obj\Release\netcoreapp2.1\ThreadVsTask.AssemblyInfoInputs.cache
+C:\Users\rdimri\source\repos\Benchmark\ThreadVsTask\obj\Release\netcoreapp2.1\ThreadVsTask.AssemblyInfo.cs
+C:\Users\rdimri\source\repos\Benchmark\ThreadVsTask\bin\Release\netcoreapp2.1\ThreadVsTask.pdb
+C:\Users\rdimri\source\repos\Benchmark\ThreadVsTask\obj\Release\netcoreapp2.1\ThreadVsTask.dll
+C:\Users\rdimri\source\repos\Benchmark\ThreadVsTask\obj\Release\netcoreapp2.1\ThreadVsTask.pdb
+C:\Users\rdimri\source\repos\Benchmark\ThreadVsTask\obj\Release\netcoreapp2.1\ThreadVsTask.csprojAssemblyReference.cache

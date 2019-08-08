@@ -1,0 +1,11 @@
+C:\Users\rdimri\source\repos\Benchmark\ArrayVsList\bin\Release\netcoreapp2.1\ArrayVsList.deps.json
+C:\Users\rdimri\source\repos\Benchmark\ArrayVsList\bin\Release\netcoreapp2.1\ArrayVsList.runtimeconfig.json
+C:\Users\rdimri\source\repos\Benchmark\ArrayVsList\bin\Release\netcoreapp2.1\ArrayVsList.runtimeconfig.dev.json
+C:\Users\rdimri\source\repos\Benchmark\ArrayVsList\bin\Release\netcoreapp2.1\ArrayVsList.dll
+C:\Users\rdimri\source\repos\Benchmark\ArrayVsList\obj\Release\netcoreapp2.1\ArrayVsList.csprojAssemblyReference.cache
+C:\Users\rdimri\source\repos\Benchmark\ArrayVsList\obj\Release\netcoreapp2.1\ArrayVsList.csproj.CoreCompileInputs.cache
+C:\Users\rdimri\source\repos\Benchmark\ArrayVsList\obj\Release\netcoreapp2.1\ArrayVsList.AssemblyInfoInputs.cache
+C:\Users\rdimri\source\repos\Benchmark\ArrayVsList\obj\Release\netcoreapp2.1\ArrayVsList.AssemblyInfo.cs
+C:\Users\rdimri\source\repos\Benchmark\ArrayVsList\bin\Release\netcoreapp2.1\ArrayVsList.pdb
+C:\Users\rdimri\source\repos\Benchmark\ArrayVsList\obj\Release\netcoreapp2.1\ArrayVsList.dll
+C:\Users\rdimri\source\repos\Benchmark\ArrayVsList\obj\Release\netcoreapp2.1\ArrayVsList.pdb
